@@ -1,0 +1,361 @@
+﻿record_id,report_date,region,health_facility,disease,population_catchment,suspected_cases,tested_cases,confirmed_cases,deaths,report_expected,report_received
+CHD-001-20250106,1/6/2025,N'Djamena,N'Djamena Central,Malaria,36214,33,41,25,0,1,1
+CHD-001-20250113,1/13/2025,N'Djamena,N'Djamena Central,Malaria,36214,33,48,28,0,1,1
+CHD-001-20250120,1/20/2025,N'Djamena,N'Djamena Central,Malaria,36214,39,56,30,1,1,1
+CHD-001-20250127,1/27/2025,N'Djamena,N'Djamena Central,Malaria,36214,36,39,29,0,1,1
+CHD-001-20250203,2/3/2025,N'Djamena,N'Djamena Central,Acute Respiratory Infection,36214,22,30,1,0,1,1
+CHD-001-20250210,2/10/2025,N'Djamena,N'Djamena Central,Malaria,36214,26,41,15,0,1,1
+CHD-001-20250217,2/17/2025,N'Djamena,N'Djamena Central,Malaria,36214,28,38,22,0,1,1
+CHD-001-20250224,2/24/2025,N'Djamena,N'Djamena Central,Dengue-like Illness,36214,3,3,0,0,1,1
+CHD-001-20250303,3/3/2025,N'Djamena,N'Djamena Central,Malaria,36214,38,57,26,0,1,1
+CHD-001-20250310,3/10/2025,N'Djamena,N'Djamena Central,Malaria,36214,32,48,24,0,1,1
+CHD-001-20250317,3/17/2025,N'Djamena,N'Djamena Central,Acute Respiratory Infection,36214,19,29,0,0,1,1
+CHD-001-20250324,3/24/2025,N'Djamena,N'Djamena Central,Malaria,36214,31,39,18,0,1,1
+CHD-001-20250331,3/31/2025,N'Djamena,N'Djamena Central,Malaria,36214,35,41,25,0,1,1
+CHD-001-20250407,4/7/2025,N'Djamena,N'Djamena Central,Acute Watery Diarrhea,36214,,,,,1,0
+CHD-001-20250414,4/14/2025,N'Djamena,N'Djamena Central,Malaria,36214,31,51,22,0,1,1
+CHD-002-20250106,1/6/2025,N'Djamena,Farcha Health Centre,Malaria,36137,21,29,14,0,1,1
+CHD-002-20250113,1/13/2025,N'Djamena,Farcha Health Centre,Acute Respiratory Infection,36137,19,22,3,1,1,1
+CHD-002-20250120,1/20/2025,N'Djamena,Farcha Health Centre,Measles,36137,11,15,5,0,1,1
+CHD-002-20250127,1/27/2025,N'Djamena,Farcha Health Centre,Acute Watery Diarrhea,36137,11,14,0,0,1,1
+CHD-002-20250203,2/3/2025,N'Djamena,Farcha Health Centre,Acute Watery Diarrhea,36137,11,17,1,0,1,1
+CHD-002-20250210,2/10/2025,N'Djamena,Farcha Health Centre,Malaria,36137,37,46,32,0,1,1
+CHD-002-20250217,2/17/2025,N'Djamena,Farcha Health Centre,Acute Respiratory Infection,36137,16,21,1,0,1,1
+CHD-002-20250224,2/24/2025,N'Djamena,Farcha Health Centre,Malaria,36137,,,,,1,0
+CHD-002-20250303,3/3/2025,N'Djamena,Farcha Health Centre,Acute Respiratory Infection,36137,15,21,0,0,1,1
+CHD-002-20250310,3/10/2025,N'Djamena,Farcha Health Centre,Malaria,36137,,,,,1,0
+CHD-002-20250317,3/17/2025,N'Djamena,Farcha Health Centre,Acute Respiratory Infection,36137,17,17,0,0,1,1
+CHD-002-20250324,3/24/2025,N'Djamena,Farcha Health Centre,Acute Watery Diarrhea,36137,,,,,1,0
+CHD-002-20250331,3/31/2025,N'Djamena,Farcha Health Centre,Malaria,36137,41,62,31,0,1,1
+CHD-002-20250407,4/7/2025,N'Djamena,Farcha Health Centre,Malaria,36137,,,,,1,0
+CHD-002-20250414,4/14/2025,N'Djamena,Farcha Health Centre,Acute Watery Diarrhea,36137,6,7,1,0,1,1
+CHD-003-20250106,1/6/2025,N'Djamena,Walia Health Centre,Measles,37070,9,12,2,0,1,1
+CHD-003-20250113,1/13/2025,N'Djamena,Walia Health Centre,Acute Respiratory Infection,37070,18,22,1,0,1,1
+CHD-003-20250120,1/20/2025,N'Djamena,Walia Health Centre,Acute Respiratory Infection,37070,19,21,1,0,1,1
+CHD-003-20250127,1/27/2025,N'Djamena,Walia Health Centre,Acute Respiratory Infection,37070,31,41,3,0,1,1
+CHD-003-20250203,2/3/2025,N'Djamena,Walia Health Centre,Malaria,37070,34,55,21,0,1,1
+CHD-003-20250210,2/10/2025,N'Djamena,Walia Health Centre,Malaria,37070,,,,,1,0
+CHD-003-20250217,2/17/2025,N'Djamena,Walia Health Centre,Malaria,37070,31,39,22,0,1,1
+CHD-003-20250224,2/24/2025,N'Djamena,Walia Health Centre,Acute Respiratory Infection,37070,17,18,2,0,1,1
+CHD-003-20250303,3/3/2025,N'Djamena,Walia Health Centre,Acute Watery Diarrhea,37070,7,9,0,0,1,1
+CHD-003-20250310,3/10/2025,N'Djamena,Walia Health Centre,Malaria,37070,38,41,26,0,1,1
+CHD-003-20250317,3/17/2025,N'Djamena,Walia Health Centre,Acute Respiratory Infection,37070,18,23,3,0,1,1
+CHD-003-20250324,3/24/2025,N'Djamena,Walia Health Centre,Measles,37070,3,3,0,0,1,1
+CHD-003-20250331,3/31/2025,N'Djamena,Walia Health Centre,Acute Respiratory Infection,37070,18,27,1,0,1,1
+CHD-003-20250407,4/7/2025,N'Djamena,Walia Health Centre,Acute Watery Diarrhea,37070,16,26,1,0,1,1
+CHD-003-20250414,4/14/2025,N'Djamena,Walia Health Centre,Malaria,37070,21,27,17,0,1,1
+CHD-004-20250106,1/6/2025,N'Djamena,Goudji Health Centre,Malaria,41646,32,41,25,0,1,1
+CHD-004-20250113,1/13/2025,N'Djamena,Goudji Health Centre,Malaria,41646,33,49,22,0,1,1
+CHD-004-20250120,1/20/2025,N'Djamena,Goudji Health Centre,Measles,41646,2,3,0,0,1,1
+CHD-004-20250127,1/27/2025,N'Djamena,Goudji Health Centre,Malaria,41646,33,41,28,0,1,1
+CHD-004-20250203,2/3/2025,N'Djamena,Goudji Health Centre,Malaria,41646,31,38,23,0,1,1
+CHD-004-20250210,2/10/2025,N'Djamena,Goudji Health Centre,Malaria,41646,32,39,26,0,1,1
+CHD-004-20250217,2/17/2025,N'Djamena,Goudji Health Centre,Acute Respiratory Infection,41646,20,30,2,0,1,1
+CHD-004-20250224,2/24/2025,N'Djamena,Goudji Health Centre,Malaria,41646,34,47,25,0,1,1
+CHD-004-20250303,3/3/2025,N'Djamena,Goudji Health Centre,Malaria,41646,25,34,19,0,1,1
+CHD-004-20250310,3/10/2025,N'Djamena,Goudji Health Centre,Malaria,41646,33,54,21,1,1,1
+CHD-004-20250317,3/17/2025,N'Djamena,Goudji Health Centre,Acute Respiratory Infection,41646,22,31,1,0,1,1
+CHD-004-20250324,3/24/2025,N'Djamena,Goudji Health Centre,Malaria,41646,35,44,25,0,1,1
+CHD-004-20250331,3/31/2025,N'Djamena,Goudji Health Centre,Acute Respiratory Infection,41646,21,24,3,0,1,1
+CHD-004-20250407,4/7/2025,N'Djamena,Goudji Health Centre,Acute Respiratory Infection,41646,26,36,4,0,1,1
+CHD-004-20250414,4/14/2025,N'Djamena,Goudji Health Centre,Acute Watery Diarrhea,41646,9,13,3,0,1,1
+CHD-005-20250106,1/6/2025,Ouaddai,Abéché Central,Malaria,24460,38,54,27,0,1,1
+CHD-005-20250113,1/13/2025,Ouaddai,Abéché Central,Malaria,24460,29,42,15,0,1,1
+CHD-005-20250120,1/20/2025,Ouaddai,Abéché Central,Malaria,24460,26,42,15,0,1,1
+CHD-005-20250127,1/27/2025,Ouaddai,Abéché Central,Acute Watery Diarrhea,24460,9,10,2,0,1,1
+CHD-005-20250203,2/3/2025,Ouaddai,Abéché Central,Malaria,24460,33,52,25,1,1,1
+CHD-005-20250210,2/10/2025,Ouaddai,Abéché Central,Malaria,24460,32,39,27,0,1,1
+CHD-005-20250217,2/17/2025,Ouaddai,Abéché Central,Acute Respiratory Infection,24460,19,20,0,0,1,1
+CHD-005-20250224,2/24/2025,Ouaddai,Abéché Central,Malaria,24460,36,55,27,0,1,1
+CHD-005-20250303,3/3/2025,Ouaddai,Abéché Central,Acute Watery Diarrhea,24460,15,19,2,0,1,1
+CHD-005-20250310,3/10/2025,Ouaddai,Abéché Central,Malaria,24460,,,,,1,0
+CHD-005-20250317,3/17/2025,Ouaddai,Abéché Central,Malaria,24460,28,39,17,0,1,1
+CHD-005-20250324,3/24/2025,Ouaddai,Abéché Central,Acute Respiratory Infection,24460,24,34,2,0,1,1
+CHD-005-20250331,3/31/2025,Ouaddai,Abéché Central,Acute Watery Diarrhea,24460,9,14,1,0,1,1
+CHD-005-20250407,4/7/2025,Ouaddai,Abéché Central,Malaria,24460,39,44,23,0,1,1
+CHD-005-20250414,4/14/2025,Ouaddai,Abéché Central,Malaria,24460,40,42,27,0,1,1
+CHD-006-20250106,1/6/2025,Ouaddai,Adré Health Centre,Acute Watery Diarrhea,21726,6,7,2,0,1,1
+CHD-006-20250113,1/13/2025,Ouaddai,Adré Health Centre,Malaria,21726,28,44,22,0,1,1
+CHD-006-20250120,1/20/2025,Ouaddai,Adré Health Centre,Acute Respiratory Infection,21726,28,34,1,0,1,1
+CHD-006-20250127,1/27/2025,Ouaddai,Adré Health Centre,Malaria,21726,31,41,21,0,1,1
+CHD-006-20250203,2/3/2025,Ouaddai,Adré Health Centre,Malaria,21726,30,49,21,1,1,1
+CHD-006-20250210,2/10/2025,Ouaddai,Adré Health Centre,Acute Watery Diarrhea,21726,12,17,1,0,1,1
+CHD-006-20250217,2/17/2025,Ouaddai,Adré Health Centre,Acute Watery Diarrhea,21726,14,15,1,0,1,1
+CHD-006-20250224,2/24/2025,Ouaddai,Adré Health Centre,Malaria,21726,37,45,23,1,1,1
+CHD-006-20250303,3/3/2025,Ouaddai,Adré Health Centre,Acute Respiratory Infection,21726,28,35,2,0,1,1
+CHD-006-20250310,3/10/2025,Ouaddai,Adré Health Centre,Measles,21726,3,4,0,0,1,1
+CHD-006-20250317,3/17/2025,Ouaddai,Adré Health Centre,Malaria,21726,26,32,21,0,1,1
+CHD-006-20250324,3/24/2025,Ouaddai,Adré Health Centre,Malaria,21726,35,54,29,0,1,1
+CHD-006-20250331,3/31/2025,Ouaddai,Adré Health Centre,Acute Respiratory Infection,21726,22,23,1,0,1,1
+CHD-006-20250407,4/7/2025,Ouaddai,Adré Health Centre,Malaria,21726,39,54,31,0,1,1
+CHD-006-20250414,4/14/2025,Ouaddai,Adré Health Centre,Acute Respiratory Infection,21726,24,35,0,0,1,1
+CHD-007-20250106,1/6/2025,Ouaddai,Abougoudam Health Centre,Malaria,23431,34,40,23,0,1,1
+CHD-007-20250113,1/13/2025,Ouaddai,Abougoudam Health Centre,Malaria,23431,34,45,23,0,1,1
+CHD-007-20250120,1/20/2025,Ouaddai,Abougoudam Health Centre,Measles,23431,6,8,3,0,1,1
+CHD-007-20250127,1/27/2025,Ouaddai,Abougoudam Health Centre,Malaria,23431,26,38,18,0,1,1
+CHD-007-20250203,2/3/2025,Ouaddai,Abougoudam Health Centre,Malaria,23431,34,43,26,0,1,1
+CHD-007-20250210,2/10/2025,Ouaddai,Abougoudam Health Centre,Malaria,23431,29,43,20,0,1,1
+CHD-007-20250217,2/17/2025,Ouaddai,Abougoudam Health Centre,Measles,23431,7,7,2,0,1,1
+CHD-007-20250224,2/24/2025,Ouaddai,Abougoudam Health Centre,Malaria,23431,35,49,20,1,1,1
+CHD-007-20250303,3/3/2025,Ouaddai,Abougoudam Health Centre,Malaria,23431,38,50,22,0,1,1
+CHD-007-20250310,3/10/2025,Ouaddai,Abougoudam Health Centre,Malaria,23431,35,52,26,1,1,1
+CHD-007-20250317,3/17/2025,Ouaddai,Abougoudam Health Centre,Acute Watery Diarrhea,23431,7,10,1,0,1,1
+CHD-007-20250324,3/24/2025,Ouaddai,Abougoudam Health Centre,Acute Watery Diarrhea,23431,11,15,1,0,1,1
+CHD-007-20250331,3/31/2025,Ouaddai,Abougoudam Health Centre,Measles,23431,5,7,1,0,1,1
+CHD-007-20250407,4/7/2025,Ouaddai,Abougoudam Health Centre,Malaria,23431,30,42,20,0,1,1
+CHD-007-20250414,4/14/2025,Ouaddai,Abougoudam Health Centre,Measles,23431,5,5,2,0,1,1
+CHD-008-20250106,1/6/2025,Ouaddai,Amleyouna Health Centre,Malaria,15511,30,41,23,0,1,1
+CHD-008-20250113,1/13/2025,Ouaddai,Amleyouna Health Centre,Acute Respiratory Infection,15511,28,31,2,0,1,1
+CHD-008-20250120,1/20/2025,Ouaddai,Amleyouna Health Centre,Acute Watery Diarrhea,15511,14,16,3,0,1,1
+CHD-008-20250127,1/27/2025,Ouaddai,Amleyouna Health Centre,Malaria,15511,24,36,20,0,1,1
+CHD-008-20250203,2/3/2025,Ouaddai,Amleyouna Health Centre,Acute Watery Diarrhea,15511,15,22,1,0,1,1
+CHD-008-20250210,2/10/2025,Ouaddai,Amleyouna Health Centre,Malaria,15511,31,48,20,0,1,1
+CHD-008-20250217,2/17/2025,Ouaddai,Amleyouna Health Centre,Dengue-like Illness,15511,1,1,1,0,1,1
+CHD-008-20250224,2/24/2025,Ouaddai,Amleyouna Health Centre,Measles,15511,3,3,2,0,1,1
+CHD-008-20250303,3/3/2025,Ouaddai,Amleyouna Health Centre,Acute Respiratory Infection,15511,21,24,1,0,1,1
+CHD-008-20250310,3/10/2025,Ouaddai,Amleyouna Health Centre,Dengue-like Illness,15511,,,,,1,0
+CHD-008-20250317,3/17/2025,Ouaddai,Amleyouna Health Centre,Malaria,15511,,,,,1,0
+CHD-008-20250324,3/24/2025,Ouaddai,Amleyouna Health Centre,Malaria,15511,30,35,20,0,1,1
+CHD-008-20250331,3/31/2025,Ouaddai,Amleyouna Health Centre,Acute Watery Diarrhea,15511,10,11,0,0,1,1
+CHD-008-20250407,4/7/2025,Ouaddai,Amleyouna Health Centre,Malaria,15511,35,37,24,0,1,1
+CHD-008-20250414,4/14/2025,Ouaddai,Amleyouna Health Centre,Malaria,15511,38,60,27,0,1,1
+CHD-009-20250106,1/6/2025,Wadi Fira,Biltine Central,Dengue-like Illness,19831,3,4,0,0,1,1
+CHD-009-20250113,1/13/2025,Wadi Fira,Biltine Central,Acute Respiratory Infection,19831,10,10,1,0,1,1
+CHD-009-20250120,1/20/2025,Wadi Fira,Biltine Central,Malaria,19831,,,,,1,0
+CHD-009-20250127,1/27/2025,Wadi Fira,Biltine Central,Malaria,19831,32,50,26,0,1,1
+CHD-009-20250203,2/3/2025,Wadi Fira,Biltine Central,Acute Respiratory Infection,19831,,,,,1,0
+CHD-009-20250210,2/10/2025,Wadi Fira,Biltine Central,Malaria,19831,31,50,25,0,1,1
+CHD-009-20250217,2/17/2025,Wadi Fira,Biltine Central,Malaria,19831,,,,,1,0
+CHD-009-20250224,2/24/2025,Wadi Fira,Biltine Central,Measles,19831,2,2,0,0,1,1
+CHD-009-20250303,3/3/2025,Wadi Fira,Biltine Central,Malaria,19831,39,44,26,0,1,1
+CHD-009-20250310,3/10/2025,Wadi Fira,Biltine Central,Acute Respiratory Infection,19831,,,,,1,0
+CHD-009-20250317,3/17/2025,Wadi Fira,Biltine Central,Malaria,19831,33,48,24,0,1,1
+CHD-009-20250324,3/24/2025,Wadi Fira,Biltine Central,Malaria,19831,37,40,24,0,1,1
+CHD-009-20250331,3/31/2025,Wadi Fira,Biltine Central,Malaria,19831,40,63,32,0,1,1
+CHD-009-20250407,4/7/2025,Wadi Fira,Biltine Central,Malaria,19831,,,,,1,0
+CHD-009-20250414,4/14/2025,Wadi Fira,Biltine Central,Malaria,19831,37,47,30,0,1,1
+CHD-010-20250106,1/6/2025,Wadi Fira,Guéréda Health Centre,Acute Respiratory Infection,33962,12,13,3,0,1,1
+CHD-010-20250113,1/13/2025,Wadi Fira,Guéréda Health Centre,Acute Watery Diarrhea,33962,11,11,5,0,1,1
+CHD-010-20250120,1/20/2025,Wadi Fira,Guéréda Health Centre,Acute Watery Diarrhea,33962,6,9,1,0,1,1
+CHD-010-20250127,1/27/2025,Wadi Fira,Guéréda Health Centre,Measles,33962,6,6,0,0,1,1
+CHD-010-20250203,2/3/2025,Wadi Fira,Guéréda Health Centre,Malaria,33962,36,44,23,0,1,1
+CHD-010-20250210,2/10/2025,Wadi Fira,Guéréda Health Centre,Malaria,33962,27,37,15,0,1,1
+CHD-010-20250217,2/17/2025,Wadi Fira,Guéréda Health Centre,Malaria,33962,34,37,25,1,1,1
+CHD-010-20250224,2/24/2025,Wadi Fira,Guéréda Health Centre,Acute Respiratory Infection,33962,20,30,1,0,1,1
+CHD-010-20250303,3/3/2025,Wadi Fira,Guéréda Health Centre,Malaria,33962,26,40,20,0,1,1
+CHD-010-20250310,3/10/2025,Wadi Fira,Guéréda Health Centre,Malaria,33962,31,41,28,0,1,1
+CHD-010-20250317,3/17/2025,Wadi Fira,Guéréda Health Centre,Measles,33962,3,4,0,0,1,1
+CHD-010-20250324,3/24/2025,Wadi Fira,Guéréda Health Centre,Malaria,33962,37,59,27,1,1,1
+CHD-010-20250331,3/31/2025,Wadi Fira,Guéréda Health Centre,Acute Respiratory Infection,33962,16,22,0,0,1,1
+CHD-010-20250407,4/7/2025,Wadi Fira,Guéréda Health Centre,Acute Watery Diarrhea,33962,10,13,0,0,1,1
+CHD-010-20250414,4/14/2025,Wadi Fira,Guéréda Health Centre,Malaria,33962,29,42,22,0,1,1
+CHD-011-20250106,1/6/2025,Wadi Fira,Iriba Health Centre,Acute Watery Diarrhea,13439,11,16,2,0,1,1
+CHD-011-20250113,1/13/2025,Wadi Fira,Iriba Health Centre,Malaria,13439,33,51,24,0,1,1
+CHD-011-20250120,1/20/2025,Wadi Fira,Iriba Health Centre,Acute Respiratory Infection,13439,20,26,2,0,1,1
+CHD-011-20250127,1/27/2025,Wadi Fira,Iriba Health Centre,Acute Respiratory Infection,13439,20,28,2,0,1,1
+CHD-011-20250203,2/3/2025,Wadi Fira,Iriba Health Centre,Dengue-like Illness,13439,5,7,0,0,1,1
+CHD-011-20250210,2/10/2025,Wadi Fira,Iriba Health Centre,Acute Watery Diarrhea,13439,9,14,1,0,1,1
+CHD-011-20250217,2/17/2025,Wadi Fira,Iriba Health Centre,Malaria,13439,34,45,22,0,1,1
+CHD-011-20250224,2/24/2025,Wadi Fira,Iriba Health Centre,Malaria,13439,32,34,21,0,1,1
+CHD-011-20250303,3/3/2025,Wadi Fira,Iriba Health Centre,Malaria,13439,36,42,23,0,1,1
+CHD-011-20250310,3/10/2025,Wadi Fira,Iriba Health Centre,Malaria,13439,25,36,17,0,1,1
+CHD-011-20250317,3/17/2025,Wadi Fira,Iriba Health Centre,Malaria,13439,34,51,24,0,1,1
+CHD-011-20250324,3/24/2025,Wadi Fira,Iriba Health Centre,Malaria,13439,23,28,17,0,1,1
+CHD-011-20250331,3/31/2025,Wadi Fira,Iriba Health Centre,Malaria,13439,36,59,28,0,1,1
+CHD-011-20250407,4/7/2025,Wadi Fira,Iriba Health Centre,Measles,13439,7,8,1,0,1,1
+CHD-011-20250414,4/14/2025,Wadi Fira,Iriba Health Centre,Malaria,13439,33,38,25,0,1,1
+CHD-012-20250106,1/6/2025,Wadi Fira,Matadjana Health Centre,Malaria,31521,32,47,22,1,1,1
+CHD-012-20250113,1/13/2025,Wadi Fira,Matadjana Health Centre,Malaria,31521,,,,,1,0
+CHD-012-20250120,1/20/2025,Wadi Fira,Matadjana Health Centre,Malaria,31521,27,36,20,0,1,1
+CHD-012-20250127,1/27/2025,Wadi Fira,Matadjana Health Centre,Measles,31521,5,7,1,0,1,1
+CHD-012-20250203,2/3/2025,Wadi Fira,Matadjana Health Centre,Malaria,31521,38,54,32,0,1,1
+CHD-012-20250210,2/10/2025,Wadi Fira,Matadjana Health Centre,Malaria,31521,,,,,1,0
+CHD-012-20250217,2/17/2025,Wadi Fira,Matadjana Health Centre,Acute Respiratory Infection,31521,20,26,2,0,1,1
+CHD-012-20250224,2/24/2025,Wadi Fira,Matadjana Health Centre,Measles,31521,,,,,1,0
+CHD-012-20250303,3/3/2025,Wadi Fira,Matadjana Health Centre,Acute Respiratory Infection,31521,21,28,2,0,1,1
+CHD-012-20250310,3/10/2025,Wadi Fira,Matadjana Health Centre,Malaria,31521,31,49,22,0,1,1
+CHD-012-20250317,3/17/2025,Wadi Fira,Matadjana Health Centre,Acute Respiratory Infection,31521,13,20,0,0,1,1
+CHD-012-20250324,3/24/2025,Wadi Fira,Matadjana Health Centre,Malaria,31521,37,53,28,0,1,1
+CHD-012-20250331,3/31/2025,Wadi Fira,Matadjana Health Centre,Acute Watery Diarrhea,31521,7,7,1,0,1,1
+CHD-012-20250407,4/7/2025,Wadi Fira,Matadjana Health Centre,Malaria,31521,41,64,28,0,1,1
+CHD-012-20250414,4/14/2025,Wadi Fira,Matadjana Health Centre,Malaria,31521,,,,,1,0
+CHD-013-20250106,1/6/2025,Sila,Goz Beïda Central,Malaria,15604,35,54,29,0,1,1
+CHD-013-20250113,1/13/2025,Sila,Goz Beïda Central,Malaria,15604,26,27,18,0,1,1
+CHD-013-20250120,1/20/2025,Sila,Goz Beïda Central,Acute Watery Diarrhea,15604,7,8,1,0,1,1
+CHD-013-20250127,1/27/2025,Sila,Goz Beïda Central,Acute Respiratory Infection,15604,13,20,0,0,1,1
+CHD-013-20250203,2/3/2025,Sila,Goz Beïda Central,Dengue-like Illness,15604,6,6,1,0,1,1
+CHD-013-20250210,2/10/2025,Sila,Goz Beïda Central,Acute Watery Diarrhea,15604,11,12,2,0,1,1
+CHD-013-20250217,2/17/2025,Sila,Goz Beïda Central,Malaria,15604,,,,,1,0
+CHD-013-20250224,2/24/2025,Sila,Goz Beïda Central,Malaria,15604,50,56,33,0,1,1
+CHD-013-20250303,3/3/2025,Sila,Goz Beïda Central,Malaria,15604,33,38,27,0,1,1
+CHD-013-20250310,3/10/2025,Sila,Goz Beïda Central,Measles,15604,4,5,1,0,1,1
+CHD-013-20250317,3/17/2025,Sila,Goz Beïda Central,Malaria,15604,39,60,27,0,1,1
+CHD-013-20250324,3/24/2025,Sila,Goz Beïda Central,Measles,15604,4,4,0,0,1,1
+CHD-013-20250331,3/31/2025,Sila,Goz Beïda Central,Acute Respiratory Infection,15604,20,22,1,0,1,1
+CHD-013-20250407,4/7/2025,Sila,Goz Beïda Central,Malaria,15604,36,50,23,0,1,1
+CHD-013-20250414,4/14/2025,Sila,Goz Beïda Central,Acute Watery Diarrhea,15604,8,10,1,0,1,1
+CHD-014-20250106,1/6/2025,Sila,Kerfi Health Centre,Malaria,19246,,,,,1,0
+CHD-014-20250113,1/13/2025,Sila,Kerfi Health Centre,Malaria,19246,38,43,28,0,1,1
+CHD-014-20250120,1/20/2025,Sila,Kerfi Health Centre,Malaria,19246,38,46,22,0,1,1
+CHD-014-20250127,1/27/2025,Sila,Kerfi Health Centre,Acute Respiratory Infection,19246,,,,,1,0
+CHD-014-20250203,2/3/2025,Sila,Kerfi Health Centre,Acute Respiratory Infection,19246,,,,,1,0
+CHD-014-20250210,2/10/2025,Sila,Kerfi Health Centre,Malaria,19246,41,45,31,0,1,1
+CHD-014-20250217,2/17/2025,Sila,Kerfi Health Centre,Acute Respiratory Infection,19246,14,22,0,0,1,1
+CHD-014-20250224,2/24/2025,Sila,Kerfi Health Centre,Acute Respiratory Infection,19246,24,30,2,1,1,1
+CHD-014-20250303,3/3/2025,Sila,Kerfi Health Centre,Measles,19246,5,6,2,0,1,1
+CHD-014-20250310,3/10/2025,Sila,Kerfi Health Centre,Acute Respiratory Infection,19246,17,27,0,0,1,1
+CHD-014-20250317,3/17/2025,Sila,Kerfi Health Centre,Measles,19246,3,4,1,0,1,1
+CHD-014-20250324,3/24/2025,Sila,Kerfi Health Centre,Malaria,19246,43,57,36,0,1,1
+CHD-014-20250331,3/31/2025,Sila,Kerfi Health Centre,Malaria,19246,40,55,31,0,1,1
+CHD-014-20250407,4/7/2025,Sila,Kerfi Health Centre,Acute Respiratory Infection,19246,18,27,1,0,1,1
+CHD-014-20250414,4/14/2025,Sila,Kerfi Health Centre,Malaria,19246,43,52,34,0,1,1
+CHD-015-20250106,1/6/2025,Sila,Adé Health Centre,Malaria,19478,34,39,24,0,1,1
+CHD-015-20250113,1/13/2025,Sila,Adé Health Centre,Dengue-like Illness,19478,6,7,1,0,1,1
+CHD-015-20250120,1/20/2025,Sila,Adé Health Centre,Malaria,19478,30,38,19,0,1,1
+CHD-015-20250127,1/27/2025,Sila,Adé Health Centre,Acute Respiratory Infection,19478,26,30,1,1,1,1
+CHD-015-20250203,2/3/2025,Sila,Adé Health Centre,Acute Watery Diarrhea,19478,15,20,1,0,1,1
+CHD-015-20250210,2/10/2025,Sila,Adé Health Centre,Dengue-like Illness,19478,4,4,0,0,1,1
+CHD-015-20250217,2/17/2025,Sila,Adé Health Centre,Malaria,19478,32,34,21,0,1,1
+CHD-015-20250224,2/24/2025,Sila,Adé Health Centre,Malaria,19478,23,37,16,0,1,1
+CHD-015-20250303,3/3/2025,Sila,Adé Health Centre,Acute Watery Diarrhea,19478,12,18,0,0,1,1
+CHD-015-20250310,3/10/2025,Sila,Adé Health Centre,Acute Watery Diarrhea,19478,12,15,1,0,1,1
+CHD-015-20250317,3/17/2025,Sila,Adé Health Centre,Malaria,19478,38,45,25,0,1,1
+CHD-015-20250324,3/24/2025,Sila,Adé Health Centre,Acute Respiratory Infection,19478,14,20,1,1,1,1
+CHD-015-20250331,3/31/2025,Sila,Adé Health Centre,Malaria,19478,37,58,27,0,1,1
+CHD-015-20250407,4/7/2025,Sila,Adé Health Centre,Malaria,19478,20,21,16,0,1,1
+CHD-015-20250414,4/14/2025,Sila,Adé Health Centre,Malaria,19478,40,53,27,0,1,1
+CHD-016-20250106,1/6/2025,Sila,Mouraye Health Centre,Acute Respiratory Infection,28172,16,21,0,0,1,1
+CHD-016-20250113,1/13/2025,Sila,Mouraye Health Centre,Malaria,28172,,,,,1,0
+CHD-016-20250120,1/20/2025,Sila,Mouraye Health Centre,Malaria,28172,34,42,27,0,1,1
+CHD-016-20250127,1/27/2025,Sila,Mouraye Health Centre,Malaria,28172,25,40,20,0,1,1
+CHD-016-20250203,2/3/2025,Sila,Mouraye Health Centre,Acute Watery Diarrhea,28172,11,14,1,0,1,1
+CHD-016-20250210,2/10/2025,Sila,Mouraye Health Centre,Acute Respiratory Infection,28172,16,23,1,0,1,1
+CHD-016-20250217,2/17/2025,Sila,Mouraye Health Centre,Acute Respiratory Infection,28172,18,24,1,1,1,1
+CHD-016-20250224,2/24/2025,Sila,Mouraye Health Centre,Acute Respiratory Infection,28172,19,25,2,0,1,1
+CHD-016-20250303,3/3/2025,Sila,Mouraye Health Centre,Malaria,28172,,,,,1,0
+CHD-016-20250310,3/10/2025,Sila,Mouraye Health Centre,Acute Respiratory Infection,28172,17,27,1,0,1,1
+CHD-016-20250317,3/17/2025,Sila,Mouraye Health Centre,Acute Watery Diarrhea,28172,15,21,2,0,1,1
+CHD-016-20250324,3/24/2025,Sila,Mouraye Health Centre,Malaria,28172,31,36,24,0,1,1
+CHD-016-20250331,3/31/2025,Sila,Mouraye Health Centre,Malaria,28172,40,52,31,0,1,1
+CHD-016-20250407,4/7/2025,Sila,Mouraye Health Centre,Measles,28172,5,5,2,1,1,1
+CHD-016-20250414,4/14/2025,Sila,Mouraye Health Centre,Malaria,28172,33,34,27,0,1,1
+CHD-017-20250106,1/6/2025,Logone Oriental,Doba Central,Acute Watery Diarrhea,12224,12,12,2,0,1,1
+CHD-017-20250113,1/13/2025,Logone Oriental,Doba Central,Malaria,12224,21,27,15,0,1,1
+CHD-017-20250120,1/20/2025,Logone Oriental,Doba Central,Malaria,12224,22,28,13,1,1,1
+CHD-017-20250127,1/27/2025,Logone Oriental,Doba Central,Acute Respiratory Infection,12224,18,27,1,0,1,1
+CHD-017-20250203,2/3/2025,Logone Oriental,Doba Central,Malaria,12224,29,32,21,0,1,1
+CHD-017-20250210,2/10/2025,Logone Oriental,Doba Central,Malaria,12224,32,50,23,0,1,1
+CHD-017-20250217,2/17/2025,Logone Oriental,Doba Central,Malaria,12224,25,40,23,0,1,1
+CHD-017-20250224,2/24/2025,Logone Oriental,Doba Central,Malaria,12224,22,30,14,0,1,1
+CHD-017-20250303,3/3/2025,Logone Oriental,Doba Central,Acute Respiratory Infection,12224,19,25,2,0,1,1
+CHD-017-20250310,3/10/2025,Logone Oriental,Doba Central,Malaria,12224,27,29,18,0,1,1
+CHD-017-20250317,3/17/2025,Logone Oriental,Doba Central,Malaria,12224,26,42,19,0,1,1
+CHD-017-20250324,3/24/2025,Logone Oriental,Doba Central,Malaria,12224,37,40,31,0,1,1
+CHD-017-20250331,3/31/2025,Logone Oriental,Doba Central,Acute Respiratory Infection,12224,12,17,0,0,1,1
+CHD-017-20250407,4/7/2025,Logone Oriental,Doba Central,Malaria,12224,28,37,22,0,1,1
+CHD-017-20250414,4/14/2025,Logone Oriental,Doba Central,Acute Respiratory Infection,12224,19,28,2,1,1,1
+CHD-018-20250106,1/6/2025,Logone Oriental,Bébédjia Health Centre,Malaria,17935,41,45,33,0,1,1
+CHD-018-20250113,1/13/2025,Logone Oriental,Bébédjia Health Centre,Malaria,17935,37,38,24,0,1,1
+CHD-018-20250120,1/20/2025,Logone Oriental,Bébédjia Health Centre,Dengue-like Illness,17935,5,5,0,0,1,1
+CHD-018-20250127,1/27/2025,Logone Oriental,Bébédjia Health Centre,Malaria,17935,,,,,1,0
+CHD-018-20250203,2/3/2025,Logone Oriental,Bébédjia Health Centre,Malaria,17935,36,53,29,0,1,1
+CHD-018-20250210,2/10/2025,Logone Oriental,Bébédjia Health Centre,Malaria,17935,36,40,25,1,1,1
+CHD-018-20250217,2/17/2025,Logone Oriental,Bébédjia Health Centre,Malaria,17935,32,38,19,0,1,1
+CHD-018-20250224,2/24/2025,Logone Oriental,Bébédjia Health Centre,Acute Watery Diarrhea,17935,8,9,2,0,1,1
+CHD-018-20250303,3/3/2025,Logone Oriental,Bébédjia Health Centre,Malaria,17935,39,56,29,0,1,1
+CHD-018-20250310,3/10/2025,Logone Oriental,Bébédjia Health Centre,Measles,17935,5,5,1,0,1,1
+CHD-018-20250317,3/17/2025,Logone Oriental,Bébédjia Health Centre,Malaria,17935,41,46,26,0,1,1
+CHD-018-20250324,3/24/2025,Logone Oriental,Bébédjia Health Centre,Malaria,17935,30,31,23,0,1,1
+CHD-018-20250331,3/31/2025,Logone Oriental,Bébédjia Health Centre,Dengue-like Illness,17935,4,4,1,0,1,1
+CHD-018-20250407,4/7/2025,Logone Oriental,Bébédjia Health Centre,Acute Respiratory Infection,17935,20,32,3,1,1,1
+CHD-018-20250414,4/14/2025,Logone Oriental,Bébédjia Health Centre,Acute Respiratory Infection,17935,13,16,1,0,1,1
+CHD-019-20250106,1/6/2025,Logone Oriental,Koumra Health Centre,Malaria,28488,26,38,20,0,1,1
+CHD-019-20250113,1/13/2025,Logone Oriental,Koumra Health Centre,Measles,28488,,,,,1,0
+CHD-019-20250120,1/20/2025,Logone Oriental,Koumra Health Centre,Malaria,28488,33,34,25,0,1,1
+CHD-019-20250127,1/27/2025,Logone Oriental,Koumra Health Centre,Acute Respiratory Infection,28488,14,20,2,0,1,1
+CHD-019-20250203,2/3/2025,Logone Oriental,Koumra Health Centre,Malaria,28488,31,32,23,0,1,1
+CHD-019-20250210,2/10/2025,Logone Oriental,Koumra Health Centre,Acute Watery Diarrhea,28488,21,31,2,0,1,1
+CHD-019-20250217,2/17/2025,Logone Oriental,Koumra Health Centre,Acute Respiratory Infection,28488,17,19,1,0,1,1
+CHD-019-20250224,2/24/2025,Logone Oriental,Koumra Health Centre,Malaria,28488,39,53,26,0,1,1
+CHD-019-20250303,3/3/2025,Logone Oriental,Koumra Health Centre,Malaria,28488,29,31,18,0,1,1
+CHD-019-20250310,3/10/2025,Logone Oriental,Koumra Health Centre,Dengue-like Illness,28488,4,6,0,0,1,1
+CHD-019-20250317,3/17/2025,Logone Oriental,Koumra Health Centre,Malaria,28488,27,42,21,0,1,1
+CHD-019-20250324,3/24/2025,Logone Oriental,Koumra Health Centre,Acute Respiratory Infection,28488,,,,,1,0
+CHD-019-20250331,3/31/2025,Logone Oriental,Koumra Health Centre,Acute Respiratory Infection,28488,,,,,1,0
+CHD-019-20250407,4/7/2025,Logone Oriental,Koumra Health Centre,Malaria,28488,36,45,21,0,1,1
+CHD-019-20250414,4/14/2025,Logone Oriental,Koumra Health Centre,Acute Respiratory Infection,28488,31,51,3,0,1,1
+CHD-020-20250106,1/6/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,36,42,22,0,1,1
+CHD-020-20250113,1/13/2025,Logone Oriental,Bodo Health Centre,Acute Watery Diarrhea,33842,14,16,0,0,1,1
+CHD-020-20250120,1/20/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,35,41,27,0,1,1
+CHD-020-20250127,1/27/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,34,48,21,0,1,1
+CHD-020-20250203,2/3/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,29,37,18,0,1,1
+CHD-020-20250210,2/10/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,33,41,22,1,1,1
+CHD-020-20250217,2/17/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,39,47,34,0,1,1
+CHD-020-20250224,2/24/2025,Logone Oriental,Bodo Health Centre,Measles,33842,3,4,0,0,1,1
+CHD-020-20250303,3/3/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,34,55,22,0,1,1
+CHD-020-20250310,3/10/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,23,36,15,0,1,1
+CHD-020-20250317,3/17/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,29,39,21,0,1,1
+CHD-020-20250324,3/24/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,31,49,19,0,1,1
+CHD-020-20250331,3/31/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,46,67,30,0,1,1
+CHD-020-20250407,4/7/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,35,43,29,0,1,1
+CHD-020-20250414,4/14/2025,Logone Oriental,Bodo Health Centre,Malaria,33842,38,40,22,0,1,1
+CHD-021-20250106,1/6/2025,Lac,Bol Central,Measles,19553,4,5,1,0,1,1
+CHD-021-20250113,1/13/2025,Lac,Bol Central,Acute Respiratory Infection,19553,21,32,3,0,1,1
+CHD-021-20250120,1/20/2025,Lac,Bol Central,Acute Respiratory Infection,19553,16,20,1,0,1,1
+CHD-021-20250127,1/27/2025,Lac,Bol Central,Acute Watery Diarrhea,19553,11,17,3,0,1,1
+CHD-021-20250203,2/3/2025,Lac,Bol Central,Malaria,19553,37,44,27,0,1,1
+CHD-021-20250210,2/10/2025,Lac,Bol Central,Acute Respiratory Infection,19553,9,10,0,0,1,1
+CHD-021-20250217,2/17/2025,Lac,Bol Central,Malaria,19553,33,51,21,0,1,1
+CHD-021-20250224,2/24/2025,Lac,Bol Central,Malaria,19553,31,45,20,0,1,1
+CHD-021-20250303,3/3/2025,Lac,Bol Central,Acute Respiratory Infection,19553,9,13,0,0,1,1
+CHD-021-20250310,3/10/2025,Lac,Bol Central,Acute Respiratory Infection,19553,16,19,1,0,1,1
+CHD-021-20250317,3/17/2025,Lac,Bol Central,Acute Watery Diarrhea,19553,10,16,2,0,1,1
+CHD-021-20250324,3/24/2025,Lac,Bol Central,Malaria,19553,41,66,30,0,1,1
+CHD-021-20250331,3/31/2025,Lac,Bol Central,Acute Watery Diarrhea,19553,5,5,0,0,1,1
+CHD-021-20250407,4/7/2025,Lac,Bol Central,Acute Watery Diarrhea,19553,9,10,1,0,1,1
+CHD-021-20250414,4/14/2025,Lac,Bol Central,Malaria,19553,34,52,23,0,1,1
+CHD-022-20250106,1/6/2025,Lac,Baga Sola Health Centre,Acute Respiratory Infection,15098,17,27,2,0,1,1
+CHD-022-20250113,1/13/2025,Lac,Baga Sola Health Centre,Dengue-like Illness,15098,3,3,0,0,1,1
+CHD-022-20250120,1/20/2025,Lac,Baga Sola Health Centre,Acute Respiratory Infection,15098,25,40,3,0,1,1
+CHD-022-20250127,1/27/2025,Lac,Baga Sola Health Centre,Malaria,15098,43,47,33,0,1,1
+CHD-022-20250203,2/3/2025,Lac,Baga Sola Health Centre,Malaria,15098,41,61,28,0,1,1
+CHD-022-20250210,2/10/2025,Lac,Baga Sola Health Centre,Malaria,15098,32,44,24,1,1,1
+CHD-022-20250217,2/17/2025,Lac,Baga Sola Health Centre,Acute Watery Diarrhea,15098,12,13,2,0,1,1
+CHD-022-20250224,2/24/2025,Lac,Baga Sola Health Centre,Malaria,15098,29,41,24,0,1,1
+CHD-022-20250303,3/3/2025,Lac,Baga Sola Health Centre,Acute Respiratory Infection,15098,,,,,1,0
+CHD-022-20250310,3/10/2025,Lac,Baga Sola Health Centre,Malaria,15098,25,30,16,0,1,1
+CHD-022-20250317,3/17/2025,Lac,Baga Sola Health Centre,Acute Respiratory Infection,15098,18,29,2,0,1,1
+CHD-022-20250324,3/24/2025,Lac,Baga Sola Health Centre,Acute Respiratory Infection,15098,22,25,1,0,1,1
+CHD-022-20250331,3/31/2025,Lac,Baga Sola Health Centre,Acute Respiratory Infection,15098,,,,,1,0
+CHD-022-20250407,4/7/2025,Lac,Baga Sola Health Centre,Acute Respiratory Infection,15098,28,41,3,0,1,1
+CHD-022-20250414,4/14/2025,Lac,Baga Sola Health Centre,Malaria,15098,35,55,22,0,1,1
+CHD-023-20250106,1/6/2025,Lac,Liwa Health Centre,Malaria,14255,31,34,24,1,1,1
+CHD-023-20250113,1/13/2025,Lac,Liwa Health Centre,Dengue-like Illness,14255,,,,,1,0
+CHD-023-20250120,1/20/2025,Lac,Liwa Health Centre,Dengue-like Illness,14255,,,,,1,0
+CHD-023-20250127,1/27/2025,Lac,Liwa Health Centre,Acute Watery Diarrhea,14255,,,,,1,0
+CHD-023-20250203,2/3/2025,Lac,Liwa Health Centre,Malaria,14255,38,59,30,0,1,1
+CHD-023-20250210,2/10/2025,Lac,Liwa Health Centre,Acute Watery Diarrhea,14255,,,,,1,0
+CHD-023-20250217,2/17/2025,Lac,Liwa Health Centre,Malaria,14255,,,,,1,0
+CHD-023-20250224,2/24/2025,Lac,Liwa Health Centre,Acute Watery Diarrhea,14255,8,8,1,0,1,1
+CHD-023-20250303,3/3/2025,Lac,Liwa Health Centre,Acute Respiratory Infection,14255,19,22,1,0,1,1
+CHD-023-20250310,3/10/2025,Lac,Liwa Health Centre,Malaria,14255,24,25,19,0,1,1
+CHD-023-20250317,3/17/2025,Lac,Liwa Health Centre,Acute Respiratory Infection,14255,20,22,2,1,1,1
+CHD-023-20250324,3/24/2025,Lac,Liwa Health Centre,Acute Respiratory Infection,14255,,,,,1,0
+CHD-023-20250331,3/31/2025,Lac,Liwa Health Centre,Acute Respiratory Infection,14255,20,23,2,0,1,1
+CHD-023-20250407,4/7/2025,Lac,Liwa Health Centre,Malaria,14255,32,43,24,0,1,1
+CHD-023-20250414,4/14/2025,Lac,Liwa Health Centre,Malaria,14255,31,48,21,1,1,1
+CHD-024-20250106,1/6/2025,Lac,Ngouri Health Centre,Acute Watery Diarrhea,26442,12,15,1,0,1,1
+CHD-024-20250113,1/13/2025,Lac,Ngouri Health Centre,Acute Watery Diarrhea,26442,,,,,1,0
+CHD-024-20250120,1/20/2025,Lac,Ngouri Health Centre,Malaria,26442,23,28,16,0,1,1
+CHD-024-20250127,1/27/2025,Lac,Ngouri Health Centre,Malaria,26442,31,32,21,0,1,1
+CHD-024-20250203,2/3/2025,Lac,Ngouri Health Centre,Malaria,26442,40,51,30,0,1,1
+CHD-024-20250210,2/10/2025,Lac,Ngouri Health Centre,Acute Respiratory Infection,26442,23,26,1,0,1,1
+CHD-024-20250217,2/17/2025,Lac,Ngouri Health Centre,Acute Respiratory Infection,26442,15,24,2,0,1,1
+CHD-024-20250224,2/24/2025,Lac,Ngouri Health Centre,Acute Watery Diarrhea,26442,14,17,2,0,1,1
+CHD-024-20250303,3/3/2025,Lac,Ngouri Health Centre,Malaria,26442,26,36,15,0,1,1
+CHD-024-20250310,3/10/2025,Lac,Ngouri Health Centre,Acute Respiratory Infection,26442,18,23,1,0,1,1
+CHD-024-20250317,3/17/2025,Lac,Ngouri Health Centre,Malaria,26442,28,35,21,0,1,1
+CHD-024-20250324,3/24/2025,Lac,Ngouri Health Centre,Malaria,26442,35,48,29,0,1,1
+CHD-024-20250331,3/31/2025,Lac,Ngouri Health Centre,Measles,26442,14,19,4,0,1,1
+CHD-024-20250407,4/7/2025,Lac,Ngouri Health Centre,Malaria,26442,28,44,19,0,1,1
+CHD-024-20250414,4/14/2025,Lac,Ngouri Health Centre,Acute Respiratory Infection,26442,26,38,2,0,1,1
